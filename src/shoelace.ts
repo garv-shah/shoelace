@@ -1,5 +1,6 @@
 // Components
 export { default as SlAlert } from './components/alert/alert.js';
+export { default as SlAutocomplete } from './components/autocomplete/autocomplete';
 export { default as SlAnimatedImage } from './components/animated-image/animated-image.js';
 export { default as SlAnimation } from './components/animation/animation.js';
 export { default as SlAvatar } from './components/avatar/avatar.js';
